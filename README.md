@@ -1,10 +1,10 @@
 # 🚀 Meteora DLMM Arbitrage Bot
 
-An advanced arbitrage bot that identifies and executes profitable trades between Meteora DLMM (Dynamic Liquidity Market Maker) pools and external price feeds for Solana tokens.
+An advanced arbitrage bot that identifies and executes profitable trades between Meteora DLMM (Dynamic Liquidity Market Maker) pools and pumpswap price feed for Solana tokens.
 
 ## 📋 Overview
 
-This bot continuously monitors Meteora DLMM pools for arbitrage opportunities by comparing pool prices with external price feeds. It features dynamic profit thresholds, risk management, and automated trade execution.
+This bot continuously monitors Meteora DLMM pools for arbitrage opportunities by comparing pool prices with pumpswap  price feeds. It features dynamic profit thresholds, risk management, and automated trade execution.
 
 ## ✨ Features
 
